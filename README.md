@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking for a work and job 
-- 📫 How to reach me ...
+- 📫 How to reach me ... follow me on instagram @sammr_khan
 
 <!---
 samprophet/samprophet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
