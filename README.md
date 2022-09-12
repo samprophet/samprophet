@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Sameer khan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 ![White Illustration Online School Banner (1)](https://user-images.githubusercontent.com/66533202/148684438-86a55cbe-a8da-4287-9774-d5da6ed4ffad.jpg)
 
 
